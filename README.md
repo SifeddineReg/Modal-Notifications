@@ -1,4 +1,4 @@
-# Modal Notification Componenent
+# Modal Notification Component
 
 A Notification Modal, with a message input and button to help add/close them.
 
